@@ -57,7 +57,7 @@ All source files use `::` as a field delimiter.
 
 ## Tech Stack
 
-- **PySpark** (DataFrame API) — used in place of Scala/RDDs, since Databricks' free-tier serverless compute supports only Python DataFrames, not Scala or RDDs
+- **PySpark** (DataFrame API) 
 - **Spark SQL** — schema parsing, aggregations, and joins
 - **Hive** — managed database and tables via the Spark-integrated Hive metastore
 - **Databricks** (serverless compute)

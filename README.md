@@ -108,6 +108,4 @@ This highlights a broader lesson applied throughout: fixed-offset string parsing
 
 ---
 
-## Acknowledgment
 
-Original project structure and analytical questions from [Thomas-George-T/Movies-Analytics-in-Spark-and-Scala](https://github.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala) (Apache License 2.0). This repository is an independent PySpark reimplementation with additional data-quality debugging, not a fork.
